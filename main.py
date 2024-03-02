@@ -7,3 +7,4 @@ git commit -m "comment"
 git branch
 git branch name_branch
 """
+print("Amadi")
