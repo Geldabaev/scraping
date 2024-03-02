@@ -10,5 +10,6 @@ git checkout name_brach  прейти на ветку
 git merge name_branch  объеденить две ветки
 """
 
+print("Amadi")
+print("YUNus")
 
-git branch
