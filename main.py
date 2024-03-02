@@ -8,6 +8,7 @@ git branch  проверка веток
 git branch name_branch  создать новую ветку
 git checkout name_brach  прейти на ветку
 git merge name_branch  объеденить две ветки
+git clone
 """
 
 print("Amadi")
